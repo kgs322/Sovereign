@@ -1,0 +1,11 @@
+# Ignore Sovereign Backups and Logs
+Sovereign_Backups/
+Logs/
+*.log
+*.reg
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore local config if you have passwords (optional)
+# sovereign-config.json
